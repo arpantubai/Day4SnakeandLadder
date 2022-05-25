@@ -8,5 +8,9 @@ public class UC1SnakeAndLadder {
         Random ran = new Random();
         n = ran.nextInt(7);
         System.out.println("Print the " + n);
+        int nn = 0;
+        Random rann = new Random();
+        n = ran.nextInt(7);
+        System.out.println("Print the " + n);
     }
 }
