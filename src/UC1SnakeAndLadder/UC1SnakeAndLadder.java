@@ -12,5 +12,9 @@ public class UC1SnakeAndLadder {
         Random rann = new Random();
         n = ran.nextInt(7);
         System.out.println("Print the " + n);
+        int n1 = 0;
+        Random ran1 = new Random();
+        n = ran.nextInt(7);
+        System.out.println("Print the " + n);
     }
 }
